@@ -1,0 +1,13 @@
+﻿model,condition,n,faithfulness,answer_relevancy,context_recall
+exaone,no_rag,83,,0.7822,
+exaone,rag,83,0.7689,0.7749,0.8474
+exaone,ft_only,83,,0.7749,
+llama,no_rag,83,,0.8149,
+llama,ft_only,83,,0.8478,
+qwen3,no_rag,83,,0.7774,
+qwen3,rag,83,0.8052,0.7663,0.8521
+qwen3,ft_only,83,,0.7615,
+exaone,ft_rag,83,0.3872,0.7675,0.0
+llama,rag,83,0.1905,0.8334,0.0
+llama,ft_rag,83,0.1734,0.827,0.0
+qwen3,ft_rag,83,0.2495,0.6044,0.0

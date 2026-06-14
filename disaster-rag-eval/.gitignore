@@ -1,0 +1,26 @@
+# 체크포인트 (대용량)
+checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# 로그
+logs/
+
+# 원시 문서 데이터 (PDF 등)
+data/raw/
+
+# 패키지 캐시
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# 백업 파일
+*.bak
+*.orig_bak
+
+# 환경
+.env
+venv/
