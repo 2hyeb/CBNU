@@ -1,0 +1,3737 @@
+[
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "집 안에서 지진 발생 시 안전한 대피 공간으로 적합한 장소는 어디인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8622808567861133,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 가족과 만날 장소와 연락 방법을 미리 어떻게 정해두어야 할까요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.8539832353585254,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "지진 발생 시 엘리베이터를 이용하는 것이 안전한지 판단해 보세요.",
+    "faithfulness": 0.8333333333333334,
+    "answer_relevancy": 0.7696494519400606,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 도심 지역에서 안전한 대피 장소로 이동할 때 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7411924967515076,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "야간 대피 시 안전을 위해 가장 중요한 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.9299842644065991,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "고층 건물 내에서 지진 발생 시, 흔들림이 지속될 때 안전하게 행동하는 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8268749426498608,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "극장이나 경기장 내에서 지진이 발생했을 때, 안전한 대피 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8300191630849039,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시 휠체어 사용자가 안전하게 행동하기 위한 구체적인 방법은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.84696077698047,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "전철이 멈춘 직후, 특히 교량이나 고가도로 근처에 차량이 주차되어 있다면 어떤 위험이 가장 크다고 판단됩니까?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.8640887409213563,
+    "context_recall": 0.5
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "청력이 좋지 않은 분과 함께 지진 발생 시 대피 시 어떻게 의사소통을 해야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8742714429651582,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "휠체어를 사용하는 지체장애인이 계단을 만나 대피할 때 적절한 대응 방법은 무엇인가?",
+    "faithfulness": 0.6,
+    "answer_relevancy": 0.7780738106337856,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "흔들림이 멈추거나 대피 후, 부상자가 있는 경우 즉시 어떻게 해야 하는지 구체적으로 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.6985980490444192,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "자기 집에서 화재가 발생했을 때, 연기가 들어오지 않는 상황에서 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8663515062406799,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "화염이나 연기가 복도나 계단에 존재하여 대피가 어려운 경우, 아파트 입주자는 어떤 행동을 취해야 할까요?",
+    "faithfulness": 0.3333333333333333,
+    "answer_relevancy": 0.8173274696735134,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "공동주택 화재 발생 시, 화염이나 연기가 직접적인 영향을 미치지 않는 세대의 대피 필요성 판단 기준은 무엇인가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7336216120412599,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "야간에 화재가 발생했을 때, 수면 중인 가족 구성원에게 화재 사실을 알리는 가장 효과적인 방법은 무엇인가요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.9467126535393483,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "화재 발생 시, 복도나 계단을 이용하여 대피할 때, 출입문 손잡이가 뜨거울 경우 어떤 행동을 취해야 할까요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.7209299534443087,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 대피공간, 경량칸막이, 하향식피난구 중 어떤 시설을 우선적으로 이용해야 하는지 설명하세요.",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.637560408543552,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "30층 이상의 아파트에서 화재 발생 시 피난용 승강기를 이용할 수 있는지 판단하고 근거를 제시하세요.",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.6744505317998728,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 화염이나 연기가 세대 내로 유입되지 않는 상황에서는 어떻게 행동해야 합니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7116480603393573,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "연기가 들어오지 않도록 창문을 닫는 것이 중요한 이유는 무엇입니까?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8537127093578457,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 대피가 어려운 상황에서 가족 구성원이 안전하게 대기할 수 있는 구체적인 방법은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8349449143243515,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "아파트 내 화재 발생 시, 가족 구성원 모두가 참여하여 피난계획을 수립하는 과정에서 가장 먼저 수행해야 하는 단계와 그 이유는 무엇인가요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.8254499375947614,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "연간 대피 연습 시 가족 구성원들이 연습해야 할 주요 요소는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7812120015148881,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "다중이용시설에서 화재 발생 시, 이용자는 어떤 행동을 취해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8068060492099196,
+    "context_recall": 0.3333333333333333
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "다음 상황에서 시설관리자가 가장 먼저 해야 할 일은 무엇인가요? (상황: 다중이용시설 내에서 갑작스러운 붕괴 위험이 감지됨)",
+    "faithfulness": null,
+    "answer_relevancy": 0.6783148834710175,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 공연장 내부에서 어떻게 안전하게 대피해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8759215097068638,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "공연장에서 발생 가능한 위험 요소 중 하나로 언급된 '붕괴' 사고의 예시와 피해 규모는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.794937234155509,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "정전 상황 발생 시 공연장에서 안전하게 대피하기 위해 첫 번째로 해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7373726258858797,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "대피 중 사고 발생 장소로 다시 들어가는 것이 안전한 행동인지 판단해 보세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.6132469213342516,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "폭설 상황에서 안전하게 대피하기 위해 어떤 장소를 선택해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7459664122253994,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "체육시설 내에서 화재 발생 시, 장애인이 안전하게 대피하기 위한 올바른 행동은 무엇인가요?",
+    "faithfulness": 0.8333333333333334,
+    "answer_relevancy": 0.8999617185524957,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "공연장 안전시설 확인 시 특히 주의해야 할 위험 상황 중 하나로 언급된 사고로 인한 부상자 수는 몇 명인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7746745549540717,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "공연장에서 정전 상황이 발생했을 때, 안전하게 대피하기 위한 최소 이동 속도 기준은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7420576817309119,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 미리 대비하기 위해 주민들이 확인해야 할 첫 번째 사항은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9976776043732885,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "유해화학물질 취급 사업장 정보를 확인할 때, 화학물질종합정보시스템에서 반드시 확인해야 할 주요 내용은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7485079255553757,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학물질 누출 초기 단계에서 피부 보호를 위해 취해야 할 첫 번째 행동은 무엇입니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8870280017861286,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "연기, 독발음 냄새, 눈과 피부 자극 증상이 나타날 때 즉시 취해야 할 행동은 무엇입니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6469944696632512,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위한 구체적인 조치는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8637837671877732,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "유류나 인화성 액체 유출 사고 발생 시 차량 운행을 즉시 중단해야 하는 이유는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8100231788425502,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 대피 시 인파 밀집으로 인한 교통 혼란이 발생할 경우, 어떻게 대처해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7733892607356159,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "시각장애가 있는 주민이 화학사고 대피 시 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9088583943487417,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "고농도 미세먼지 경보 발령 시 (PM10: 150ug/m3 이상 또는 PM2.5: 75ug/m3 이상 2시간 지속) 노인요양시설에서는 어떤 특별한 조치를 취해야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.766828253445771,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보가 해제되는 기준으로 PM10 농도는 어느 수준 미만이어야 합니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8204522497960949,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "영유아 어린이집에서 고농도 미세먼지 예보 시 첫 번째 단계로 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.7746214605408958,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 '나쁨' 이상으로 판단되는 기준은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7244064272103521,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "고농도 미세먼지 경보 기준 중 PM2.5 농도가 몇 ug/m3 이상일 때 경보가 발령됩니까?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.7948813775063998,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "미세먼지 경보가 발령된 후 7일 이내에 어떤 기관에 경보 조치 결과를 보고해야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.762582348991416,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "올바른 손씻기의 마지막 단계는 무엇이며, 그 단계에서 어떤 부분을 어떻게 닦아주어야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9010912472512677,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "올바른 손씻기의 단계 중 손톱 밑을 손바닥에 문지르는 단계는 몇 번째 단계인가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9995576454662154,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "숙박업소에서 반대(벌레) 발견 시 즉시 어떤 조치를 취해야 하나요?",
+    "faithfulness": 0.8333333333333334,
+    "answer_relevancy": 0.7900791305358923,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "여행 중 반대 경험이 있는 경우 여행 가방과 소지품을 어떻게 관리해야 안전할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.818915569787169,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "산행 중 산불이 발생했을 때, 가장 먼저 해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8317946570386474,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "영유아와 함께 있을 때 산불 발생 시 대피 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9583392478387571,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "산림재난 신고 시, 위치를 신고하기 위해 어떤 방법들을 사용할 수 있나요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.9756336520592748,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "산림재난 발생 후 안전하게 귀가하기 위한 주요 절차는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9512303130843622,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "강풍 중에 안전하게 대피하기 위해 피해야 할 장소는 어디인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7466733159910446,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "강풍 발생 시 차량 안에 있을 때 전력선이 차량에 닿았을 경우, 즉시 취해야 할 행동 세 가지는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": null,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "강풍 경보 발령 시, 바닷가 지역에서 안전하게 대처하기 위한 가장 중요한 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.810821583684313,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "겨울철 한파 시 어린이, 노약자, 심뇌혈관질환자 등 취약계층이 야외 활동 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7425645670265701,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "수도관 동파를 예방하기 위해 외출 시 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.7602598898650198,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "눈이 많이 쌓인 경우, 안전한 제설 작업을 위해 어떤 조치를 취해야 하나요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.8404292862975722,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "대설 경보가 발령된 상황에서 가로수나 노후 시설 근처를 안전하게 통과하기 위한 가장 적절한 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8224399422309162,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보 해제 기준으로 시간당 평균 미세먼지 농도는 각각 얼마 미만이어야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6171209566226133,
+    "context_recall": 0.5
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "차량 2부제가 홀수날과 짝수날에 각각 어떻게 적용되는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.4188301278939233,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 높은 활동을 최소화해야 하는 시간대는 언제인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.6848661099807059,
+    "context_recall": 0.5
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "실내 환기를 위한 적절한 시간은 얼마나 지속되어야 하나요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.7731588123339664,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "보건용 마스크의 KF 등급 중 미세먼지 차단에 가장 효과적인 등급은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8696844090358837,
+    "context_recall": 0.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학물질종합정보시스템 접속 후 확인 가능한 '지역사회 고지' 항목 중 하나는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7067885734133961,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학물질 누출 초기 발견 시, 피부 노출을 방지하기 위해 사용해야 하는 최소 거리는 몇 미터 이상인가요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.0,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "실외 대피 시, 독성물질이 지면보다 높은 곳으로 확산되는 특성을 고려하여 대피할 때 권장하는 건물의 높이 기준은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8503251278133532,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위해 에어컨 및 히터 작동을 중단해야 하는 시점은 언제인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9733605396969663,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "유류 유출 사고 발생 시 차량 운행을 즉시 중단하고 시동을 꺼야 하는 조건은 무엇인가요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.7333642481461883,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "고농도 미세먼지 경보 발령 시, 실내에 있는 고령 어르신이 외출을 자제해야 하는 이유는 무엇이며, 이 상황에서 가장 중요한 행동 지침은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7466271819801354,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인요양시설에서 미세먼지 주의보가 발령된 상태에서, 시설 내에 호흡기 질환을 가진 어르신들이 있다면, 시설 담당자는 어떤 구체적인 조치를 취해야 할까요?",
+    "faithfulness": 0.5555555555555556,
+    "answer_relevancy": 0.7551383245590584,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "미세먼지 경보가 발령된 날, 어린이와 함께 노인요양시설 근처 공원에서 야외 활동을 계획하고 있다면, 어떤 대비 조치를 취해야 할까요?",
+    "faithfulness": 0.7142857142857143,
+    "answer_relevancy": 0.6109424742646921,
+    "context_recall": 0.6666666666666666
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "어린이가 있는 가정에서 고농도 미세먼지 경보가 발령된 상황에서, 특히 실내 공기질을 유지하기 위한 가장 우선적인 조치 세 가지는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6253996597743107,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인 요양 시설에서 고농도 미세먼지 경보가 발령된 경우, 특히 호흡기 질환을 가진 노인들을 위한 보호 조치 세 가지를 구체적으로 설명하세요.",
+    "faithfulness": 0.3333333333333333,
+    "answer_relevancy": 0.5670901600740232,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "폭염과 고농도 미세먼지 경보가 동시에 발령된 여름철, 어린이를 동반한 가족이 야외 활동을 계획하고 있을 때, 안전을 위해 가장 중요한 세 가지 대응 방안은 무엇인가요?",
+    "faithfulness": 0.8,
+    "answer_relevancy": 0.6371821875402668,
+    "context_recall": 0.3333333333333333
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "어린이가 미세먼지 경보가 발령된 상태에서 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요? 특히, 어린이가 호흡기 질환을 가지고 있다면 추가적으로 고려해야 할 사항은 무엇인가요?",
+    "faithfulness": 0.8333333333333334,
+    "answer_relevancy": 0.6790003615544772,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인이 거주하는 아파트 단지에서 고농도 미세먼지 경보가 발령되었을 때, 아파트 관리사무소는 어떤 구체적인 대응 조치를 취해야 할까요? 특히 노인들의 건강 상태를 고려한 조치는 무엇인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.9518586853216949,
+    "context_recall": 1.0
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "운전자가 미세먼지 경보가 발령된 상태에서 장거리 운행을 해야 할 경우, 차량 내부의 공기질을 개선하기 위해 어떤 조치를 취해야 할까요? 특히 차량 내부의 미세먼지 농도를 낮추는 데 효과적인 방법은 무엇인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.7517216879032695,
+    "context_recall": 0.6666666666666666
+  },
+  {
+    "model": "exaone",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "고령자가 고농도 미세먼지 경보 발령 기간 동안 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요?",
+    "faithfulness": 0.8571428571428571,
+    "answer_relevancy": 0.7618636177266708,
+    "context_recall": 0.5
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "집 안에서 지진 발생 시 안전한 대피 공간으로 적합한 장소는 어디인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8123248822825081,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 가족과 만날 장소와 연락 방법을 미리 어떻게 정해두어야 할까요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8193746549217099,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "지진 발생 시 엘리베이터를 이용하는 것이 안전한지 판단해 보세요.",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7229635971495622,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 도심 지역에서 안전한 대피 장소로 이동할 때 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9613260519312272,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "야간 대피 시 안전을 위해 가장 중요한 행동은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8842655963622565,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "고층 건물 내에서 지진 발생 시, 흔들림이 지속될 때 안전하게 행동하는 방법은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8197796143904421,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "극장이나 경기장 내에서 지진이 발생했을 때, 안전한 대피 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7577849936794989,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시 휠체어 사용자가 안전하게 행동하기 위한 구체적인 방법은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8429549173219443,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "전철이 멈춘 직후, 특히 교량이나 고가도로 근처에 차량이 주차되어 있다면 어떤 위험이 가장 크다고 판단됩니까?",
+    "faithfulness": 0.16666666666666666,
+    "answer_relevancy": 0.7697157467055751,
+    "context_recall": 0.5
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "청력이 좋지 않은 분과 함께 지진 발생 시 대피 시 어떻게 의사소통을 해야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7476723051713848,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "휠체어를 사용하는 지체장애인이 계단을 만나 대피할 때 적절한 대응 방법은 무엇인가?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.7253051030397969,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "흔들림이 멈추거나 대피 후, 부상자가 있는 경우 즉시 어떻게 해야 하는지 구체적으로 설명하세요.",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6750654308692656,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "자기 집에서 화재가 발생했을 때, 연기가 들어오지 않는 상황에서 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.921780583904141,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "화염이나 연기가 복도나 계단에 존재하여 대피가 어려운 경우, 아파트 입주자는 어떤 행동을 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7854128451111693,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "공동주택 화재 발생 시, 화염이나 연기가 직접적인 영향을 미치지 않는 세대의 대피 필요성 판단 기준은 무엇인가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8690337308265306,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "야간에 화재가 발생했을 때, 수면 중인 가족 구성원에게 화재 사실을 알리는 가장 효과적인 방법은 무엇인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.937516960893435,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "화재 발생 시, 복도나 계단을 이용하여 대피할 때, 출입문 손잡이가 뜨거울 경우 어떤 행동을 취해야 할까요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.7674508461189665,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 대피공간, 경량칸막이, 하향식피난구 중 어떤 시설을 우선적으로 이용해야 하는지 설명하세요.",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6260903201054134,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "30층 이상의 아파트에서 화재 발생 시 피난용 승강기를 이용할 수 있는지 판단하고 근거를 제시하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.629255096129134,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 화염이나 연기가 세대 내로 유입되지 않는 상황에서는 어떻게 행동해야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7809568863301685,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "연기가 들어오지 않도록 창문을 닫는 것이 중요한 이유는 무엇입니까?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8152169276078829,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 대피가 어려운 상황에서 가족 구성원이 안전하게 대기할 수 있는 구체적인 방법은 무엇인가요?",
+    "faithfulness": 0.8,
+    "answer_relevancy": 0.812728545047691,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "아파트 내 화재 발생 시, 가족 구성원 모두가 참여하여 피난계획을 수립하는 과정에서 가장 먼저 수행해야 하는 단계와 그 이유는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9117277583368742,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "연간 대피 연습 시 가족 구성원들이 연습해야 할 주요 요소는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7877324223785952,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "다중이용시설에서 화재 발생 시, 이용자는 어떤 행동을 취해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8097482991157353,
+    "context_recall": 0.3333333333333333
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "다음 상황에서 시설관리자가 가장 먼저 해야 할 일은 무엇인가요? (상황: 다중이용시설 내에서 갑작스러운 붕괴 위험이 감지됨)",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.7202339839813731,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 공연장 내부에서 어떻게 안전하게 대피해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8733586569933753,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "공연장에서 발생 가능한 위험 요소 중 하나로 언급된 '붕괴' 사고의 예시와 피해 규모는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8666737708632329,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "정전 상황 발생 시 공연장에서 안전하게 대피하기 위해 첫 번째로 해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8300017312924124,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "대피 중 사고 발생 장소로 다시 들어가는 것이 안전한 행동인지 판단해 보세요.",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7167799817902101,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "폭설 상황에서 안전하게 대피하기 위해 어떤 장소를 선택해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7459664515722334,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "체육시설 내에서 화재 발생 시, 장애인이 안전하게 대피하기 위한 올바른 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7316175201179012,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "공연장 안전시설 확인 시 특히 주의해야 할 위험 상황 중 하나로 언급된 사고로 인한 부상자 수는 몇 명인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": null,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "공연장에서 정전 상황이 발생했을 때, 안전하게 대피하기 위한 최소 이동 속도 기준은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.0,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 미리 대비하기 위해 주민들이 확인해야 할 첫 번째 사항은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9587811751320098,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "유해화학물질 취급 사업장 정보를 확인할 때, 화학물질종합정보시스템에서 반드시 확인해야 할 주요 내용은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8394676918366475,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학물질 누출 초기 단계에서 피부 보호를 위해 취해야 할 첫 번째 행동은 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.9022252232988467,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "연기, 독발음 냄새, 눈과 피부 자극 증상이 나타날 때 즉시 취해야 할 행동은 무엇입니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7490568549826532,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위한 구체적인 조치는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.819564738624638,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "유류나 인화성 액체 유출 사고 발생 시 차량 운행을 즉시 중단해야 하는 이유는 무엇인가요?",
+    "faithfulness": 0.3333333333333333,
+    "answer_relevancy": 0.7977916790398872,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 대피 시 인파 밀집으로 인한 교통 혼란이 발생할 경우, 어떻게 대처해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8779973414137695,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "시각장애가 있는 주민이 화학사고 대피 시 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9096826807442003,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "고농도 미세먼지 경보 발령 시 (PM10: 150ug/m3 이상 또는 PM2.5: 75ug/m3 이상 2시간 지속) 노인요양시설에서는 어떤 특별한 조치를 취해야 합니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7110931990090158,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보가 해제되는 기준으로 PM10 농도는 어느 수준 미만이어야 합니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7512640869740881,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "영유아 어린이집에서 고농도 미세먼지 예보 시 첫 번째 단계로 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7783545161081312,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 '나쁨' 이상으로 판단되는 기준은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.7244064272103521,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "고농도 미세먼지 경보 기준 중 PM2.5 농도가 몇 ug/m3 이상일 때 경보가 발령됩니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8079439566216124,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "미세먼지 경보가 발령된 후 7일 이내에 어떤 기관에 경보 조치 결과를 보고해야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7206703903344112,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "올바른 손씻기의 마지막 단계는 무엇이며, 그 단계에서 어떤 부분을 어떻게 닦아주어야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9088107102630685,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "올바른 손씻기의 단계 중 손톱 밑을 손바닥에 문지르는 단계는 몇 번째 단계인가?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8374316778061278,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "숙박업소에서 반대(벌레) 발견 시 즉시 어떤 조치를 취해야 하나요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.7906797646832905,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "여행 중 반대 경험이 있는 경우 여행 가방과 소지품을 어떻게 관리해야 안전할까요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.9877354985081768,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "산행 중 산불이 발생했을 때, 가장 먼저 해야 할 행동은 무엇인가요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.9543522610980044,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "영유아와 함께 있을 때 산불 발생 시 대피 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8267561320991771,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "산림재난 신고 시, 위치를 신고하기 위해 어떤 방법들을 사용할 수 있나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8714907924487468,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "산림재난 발생 후 안전하게 귀가하기 위한 주요 절차는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8827402614576719,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "강풍 중에 안전하게 대피하기 위해 피해야 할 장소는 어디인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7516574444465464,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "강풍 발생 시 차량 안에 있을 때 전력선이 차량에 닿았을 경우, 즉시 취해야 할 행동 세 가지는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8367778320627688,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "강풍 경보 발령 시, 바닷가 지역에서 안전하게 대처하기 위한 가장 중요한 조치는 무엇인가요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.7927653661249763,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "겨울철 한파 시 어린이, 노약자, 심뇌혈관질환자 등 취약계층이 야외 활동 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7627205857144042,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "수도관 동파를 예방하기 위해 외출 시 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6656351227765502,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "눈이 많이 쌓인 경우, 안전한 제설 작업을 위해 어떤 조치를 취해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8284510522187303,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "대설 경보가 발령된 상황에서 가로수나 노후 시설 근처를 안전하게 통과하기 위한 가장 적절한 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7374704103624876,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보 해제 기준으로 시간당 평균 미세먼지 농도는 각각 얼마 미만이어야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6772127540978892,
+    "context_recall": 0.5
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "차량 2부제가 홀수날과 짝수날에 각각 어떻게 적용되는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7007175379461253,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 높은 활동을 최소화해야 하는 시간대는 언제인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.745357089712925,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "실내 환기를 위한 적절한 시간은 얼마나 지속되어야 하나요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.821175109056164,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "보건용 마스크의 KF 등급 중 미세먼지 차단에 가장 효과적인 등급은 무엇인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.906098960258939,
+    "context_recall": 0.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학물질종합정보시스템 접속 후 확인 가능한 '지역사회 고지' 항목 중 하나는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9081276223829778,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학물질 누출 초기 발견 시, 피부 노출을 방지하기 위해 사용해야 하는 최소 거리는 몇 미터 이상인가요?",
+    "faithfulness": 0.8,
+    "answer_relevancy": 0.0,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "실외 대피 시, 독성물질이 지면보다 높은 곳으로 확산되는 특성을 고려하여 대피할 때 권장하는 건물의 높이 기준은 무엇인가요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.0,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위해 에어컨 및 히터 작동을 중단해야 하는 시점은 언제인가요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.8524428034268865,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "유류 유출 사고 발생 시 차량 운행을 즉시 중단하고 시동을 꺼야 하는 조건은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7081521265132702,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "고농도 미세먼지 경보 발령 시, 실내에 있는 고령 어르신이 외출을 자제해야 하는 이유는 무엇이며, 이 상황에서 가장 중요한 행동 지침은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.7075629594398267,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인요양시설에서 미세먼지 주의보가 발령된 상태에서, 시설 내에 호흡기 질환을 가진 어르신들이 있다면, 시설 담당자는 어떤 구체적인 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8805798642469661,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "미세먼지 경보가 발령된 날, 어린이와 함께 노인요양시설 근처 공원에서 야외 활동을 계획하고 있다면, 어떤 대비 조치를 취해야 할까요?",
+    "faithfulness": 0.8333333333333334,
+    "answer_relevancy": 0.6151847460082821,
+    "context_recall": 0.6666666666666666
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "어린이가 있는 가정에서 고농도 미세먼지 경보가 발령된 상황에서, 특히 실내 공기질을 유지하기 위한 가장 우선적인 조치 세 가지는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.709588439479953,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인 요양 시설에서 고농도 미세먼지 경보가 발령된 경우, 특히 호흡기 질환을 가진 노인들을 위한 보호 조치 세 가지를 구체적으로 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.5897651858635491,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "폭염과 고농도 미세먼지 경보가 동시에 발령된 여름철, 어린이를 동반한 가족이 야외 활동을 계획하고 있을 때, 안전을 위해 가장 중요한 세 가지 대응 방안은 무엇인가요?",
+    "faithfulness": 0.16666666666666666,
+    "answer_relevancy": 0.5431349512997422,
+    "context_recall": 0.3333333333333333
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "어린이가 미세먼지 경보가 발령된 상태에서 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요? 특히, 어린이가 호흡기 질환을 가지고 있다면 추가적으로 고려해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.6924165761783744,
+    "context_recall": 0.6666666666666666
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인이 거주하는 아파트 단지에서 고농도 미세먼지 경보가 발령되었을 때, 아파트 관리사무소는 어떤 구체적인 대응 조치를 취해야 할까요? 특히 노인들의 건강 상태를 고려한 조치는 무엇인가요?",
+    "faithfulness": 0.5714285714285714,
+    "answer_relevancy": 0.6759368112092989,
+    "context_recall": 1.0
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "운전자가 미세먼지 경보가 발령된 상태에서 장거리 운행을 해야 할 경우, 차량 내부의 공기질을 개선하기 위해 어떤 조치를 취해야 할까요? 특히 차량 내부의 미세먼지 농도를 낮추는 데 효과적인 방법은 무엇인가요?",
+    "faithfulness": 0.25,
+    "answer_relevancy": 0.6671633720241212,
+    "context_recall": 0.6666666666666666
+  },
+  {
+    "model": "qwen3",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "고령자가 고농도 미세먼지 경보 발령 기간 동안 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8140941363414423,
+    "context_recall": 0.5
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "집 안에서 지진 발생 시 안전한 대피 공간으로 적합한 장소는 어디인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 가족과 만날 장소와 연락 방법을 미리 어떻게 정해두어야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "지진 발생 시 엘리베이터를 이용하는 것이 안전한지 판단해 보세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 도심 지역에서 안전한 대피 장소로 이동할 때 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "야간 대피 시 안전을 위해 가장 중요한 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "고층 건물 내에서 지진 발생 시, 흔들림이 지속될 때 안전하게 행동하는 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "극장이나 경기장 내에서 지진이 발생했을 때, 안전한 대피 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "지진 발생 시 휠체어 사용자가 안전하게 행동하기 위한 구체적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "전철이 멈춘 직후, 특히 교량이나 고가도로 근처에 차량이 주차되어 있다면 어떤 위험이 가장 크다고 판단됩니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "청력이 좋지 않은 분과 함께 지진 발생 시 대피 시 어떻게 의사소통을 해야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "휠체어를 사용하는 지체장애인이 계단을 만나 대피할 때 적절한 대응 방법은 무엇인가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "흔들림이 멈추거나 대피 후, 부상자가 있는 경우 즉시 어떻게 해야 하는지 구체적으로 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "자기 집에서 화재가 발생했을 때, 연기가 들어오지 않는 상황에서 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "화염이나 연기가 복도나 계단에 존재하여 대피가 어려운 경우, 아파트 입주자는 어떤 행동을 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "공동주택 화재 발생 시, 화염이나 연기가 직접적인 영향을 미치지 않는 세대의 대피 필요성 판단 기준은 무엇인가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "야간에 화재가 발생했을 때, 수면 중인 가족 구성원에게 화재 사실을 알리는 가장 효과적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "화재 발생 시, 복도나 계단을 이용하여 대피할 때, 출입문 손잡이가 뜨거울 경우 어떤 행동을 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 대피공간, 경량칸막이, 하향식피난구 중 어떤 시설을 우선적으로 이용해야 하는지 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "30층 이상의 아파트에서 화재 발생 시 피난용 승강기를 이용할 수 있는지 판단하고 근거를 제시하세요.",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 화염이나 연기가 세대 내로 유입되지 않는 상황에서는 어떻게 행동해야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "연기가 들어오지 않도록 창문을 닫는 것이 중요한 이유는 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 대피가 어려운 상황에서 가족 구성원이 안전하게 대기할 수 있는 구체적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "아파트 내 화재 발생 시, 가족 구성원 모두가 참여하여 피난계획을 수립하는 과정에서 가장 먼저 수행해야 하는 단계와 그 이유는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "연간 대피 연습 시 가족 구성원들이 연습해야 할 주요 요소는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "다중이용시설에서 화재 발생 시, 이용자는 어떤 행동을 취해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "다음 상황에서 시설관리자가 가장 먼저 해야 할 일은 무엇인가요? (상황: 다중이용시설 내에서 갑작스러운 붕괴 위험이 감지됨)",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 공연장 내부에서 어떻게 안전하게 대피해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "공연장에서 발생 가능한 위험 요소 중 하나로 언급된 '붕괴' 사고의 예시와 피해 규모는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "정전 상황 발생 시 공연장에서 안전하게 대피하기 위해 첫 번째로 해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "대피 중 사고 발생 장소로 다시 들어가는 것이 안전한 행동인지 판단해 보세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "폭설 상황에서 안전하게 대피하기 위해 어떤 장소를 선택해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "체육시설 내에서 화재 발생 시, 장애인이 안전하게 대피하기 위한 올바른 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "공연장 안전시설 확인 시 특히 주의해야 할 위험 상황 중 하나로 언급된 사고로 인한 부상자 수는 몇 명인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "공연장에서 정전 상황이 발생했을 때, 안전하게 대피하기 위한 최소 이동 속도 기준은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 미리 대비하기 위해 주민들이 확인해야 할 첫 번째 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "유해화학물질 취급 사업장 정보를 확인할 때, 화학물질종합정보시스템에서 반드시 확인해야 할 주요 내용은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학물질 누출 초기 단계에서 피부 보호를 위해 취해야 할 첫 번째 행동은 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "연기, 독발음 냄새, 눈과 피부 자극 증상이 나타날 때 즉시 취해야 할 행동은 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위한 구체적인 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "유류나 인화성 액체 유출 사고 발생 시 차량 운행을 즉시 중단해야 하는 이유는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학사고 대피 시 인파 밀집으로 인한 교통 혼란이 발생할 경우, 어떻게 대처해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "시각장애가 있는 주민이 화학사고 대피 시 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "고농도 미세먼지 경보 발령 시 (PM10: 150ug/m3 이상 또는 PM2.5: 75ug/m3 이상 2시간 지속) 노인요양시설에서는 어떤 특별한 조치를 취해야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보가 해제되는 기준으로 PM10 농도는 어느 수준 미만이어야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "영유아 어린이집에서 고농도 미세먼지 예보 시 첫 번째 단계로 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 '나쁨' 이상으로 판단되는 기준은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "고농도 미세먼지 경보 기준 중 PM2.5 농도가 몇 ug/m3 이상일 때 경보가 발령됩니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "미세먼지 경보가 발령된 후 7일 이내에 어떤 기관에 경보 조치 결과를 보고해야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "올바른 손씻기의 마지막 단계는 무엇이며, 그 단계에서 어떤 부분을 어떻게 닦아주어야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "올바른 손씻기의 단계 중 손톱 밑을 손바닥에 문지르는 단계는 몇 번째 단계인가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "숙박업소에서 반대(벌레) 발견 시 즉시 어떤 조치를 취해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "여행 중 반대 경험이 있는 경우 여행 가방과 소지품을 어떻게 관리해야 안전할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "산행 중 산불이 발생했을 때, 가장 먼저 해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "영유아와 함께 있을 때 산불 발생 시 대피 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "산림재난 신고 시, 위치를 신고하기 위해 어떤 방법들을 사용할 수 있나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "산림재난 발생 후 안전하게 귀가하기 위한 주요 절차는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "강풍 중에 안전하게 대피하기 위해 피해야 할 장소는 어디인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "강풍 발생 시 차량 안에 있을 때 전력선이 차량에 닿았을 경우, 즉시 취해야 할 행동 세 가지는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "강풍 경보 발령 시, 바닷가 지역에서 안전하게 대처하기 위한 가장 중요한 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "겨울철 한파 시 어린이, 노약자, 심뇌혈관질환자 등 취약계층이 야외 활동 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "수도관 동파를 예방하기 위해 외출 시 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "눈이 많이 쌓인 경우, 안전한 제설 작업을 위해 어떤 조치를 취해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "대설 경보가 발령된 상황에서 가로수나 노후 시설 근처를 안전하게 통과하기 위한 가장 적절한 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보 해제 기준으로 시간당 평균 미세먼지 농도는 각각 얼마 미만이어야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "차량 2부제가 홀수날과 짝수날에 각각 어떻게 적용되는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 높은 활동을 최소화해야 하는 시간대는 언제인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "실내 환기를 위한 적절한 시간은 얼마나 지속되어야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "보건용 마스크의 KF 등급 중 미세먼지 차단에 가장 효과적인 등급은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "화학물질종합정보시스템 접속 후 확인 가능한 '지역사회 고지' 항목 중 하나는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "화학물질 누출 초기 발견 시, 피부 노출을 방지하기 위해 사용해야 하는 최소 거리는 몇 미터 이상인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "실외 대피 시, 독성물질이 지면보다 높은 곳으로 확산되는 특성을 고려하여 대피할 때 권장하는 건물의 높이 기준은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위해 에어컨 및 히터 작동을 중단해야 하는 시점은 언제인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "유류 유출 사고 발생 시 차량 운행을 즉시 중단하고 시동을 꺼야 하는 조건은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "고농도 미세먼지 경보 발령 시, 실내에 있는 고령 어르신이 외출을 자제해야 하는 이유는 무엇이며, 이 상황에서 가장 중요한 행동 지침은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "노인요양시설에서 미세먼지 주의보가 발령된 상태에서, 시설 내에 호흡기 질환을 가진 어르신들이 있다면, 시설 담당자는 어떤 구체적인 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "미세먼지 경보가 발령된 날, 어린이와 함께 노인요양시설 근처 공원에서 야외 활동을 계획하고 있다면, 어떤 대비 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "어린이가 있는 가정에서 고농도 미세먼지 경보가 발령된 상황에서, 특히 실내 공기질을 유지하기 위한 가장 우선적인 조치 세 가지는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "노인 요양 시설에서 고농도 미세먼지 경보가 발령된 경우, 특히 호흡기 질환을 가진 노인들을 위한 보호 조치 세 가지를 구체적으로 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "폭염과 고농도 미세먼지 경보가 동시에 발령된 여름철, 어린이를 동반한 가족이 야외 활동을 계획하고 있을 때, 안전을 위해 가장 중요한 세 가지 대응 방안은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "어린이가 미세먼지 경보가 발령된 상태에서 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요? 특히, 어린이가 호흡기 질환을 가지고 있다면 추가적으로 고려해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "노인이 거주하는 아파트 단지에서 고농도 미세먼지 경보가 발령되었을 때, 아파트 관리사무소는 어떤 구체적인 대응 조치를 취해야 할까요? 특히 노인들의 건강 상태를 고려한 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "운전자가 미세먼지 경보가 발령된 상태에서 장거리 운행을 해야 할 경우, 차량 내부의 공기질을 개선하기 위해 어떤 조치를 취해야 할까요? 특히 차량 내부의 미세먼지 농도를 낮추는 데 효과적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "exaone",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "고령자가 고농도 미세먼지 경보 발령 기간 동안 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "집 안에서 지진 발생 시 안전한 대피 공간으로 적합한 장소는 어디인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 가족과 만날 장소와 연락 방법을 미리 어떻게 정해두어야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "지진 발생 시 엘리베이터를 이용하는 것이 안전한지 판단해 보세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 도심 지역에서 안전한 대피 장소로 이동할 때 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "야간 대피 시 안전을 위해 가장 중요한 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "고층 건물 내에서 지진 발생 시, 흔들림이 지속될 때 안전하게 행동하는 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "극장이나 경기장 내에서 지진이 발생했을 때, 안전한 대피 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "지진 발생 시 휠체어 사용자가 안전하게 행동하기 위한 구체적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "전철이 멈춘 직후, 특히 교량이나 고가도로 근처에 차량이 주차되어 있다면 어떤 위험이 가장 크다고 판단됩니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "청력이 좋지 않은 분과 함께 지진 발생 시 대피 시 어떻게 의사소통을 해야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "휠체어를 사용하는 지체장애인이 계단을 만나 대피할 때 적절한 대응 방법은 무엇인가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "흔들림이 멈추거나 대피 후, 부상자가 있는 경우 즉시 어떻게 해야 하는지 구체적으로 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "자기 집에서 화재가 발생했을 때, 연기가 들어오지 않는 상황에서 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "화염이나 연기가 복도나 계단에 존재하여 대피가 어려운 경우, 아파트 입주자는 어떤 행동을 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "공동주택 화재 발생 시, 화염이나 연기가 직접적인 영향을 미치지 않는 세대의 대피 필요성 판단 기준은 무엇인가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "야간에 화재가 발생했을 때, 수면 중인 가족 구성원에게 화재 사실을 알리는 가장 효과적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "화재 발생 시, 복도나 계단을 이용하여 대피할 때, 출입문 손잡이가 뜨거울 경우 어떤 행동을 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 대피공간, 경량칸막이, 하향식피난구 중 어떤 시설을 우선적으로 이용해야 하는지 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "30층 이상의 아파트에서 화재 발생 시 피난용 승강기를 이용할 수 있는지 판단하고 근거를 제시하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.4027016789937312,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 화염이나 연기가 세대 내로 유입되지 않는 상황에서는 어떻게 행동해야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "연기가 들어오지 않도록 창문을 닫는 것이 중요한 이유는 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 대피가 어려운 상황에서 가족 구성원이 안전하게 대기할 수 있는 구체적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "아파트 내 화재 발생 시, 가족 구성원 모두가 참여하여 피난계획을 수립하는 과정에서 가장 먼저 수행해야 하는 단계와 그 이유는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "연간 대피 연습 시 가족 구성원들이 연습해야 할 주요 요소는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "다중이용시설에서 화재 발생 시, 이용자는 어떤 행동을 취해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "다음 상황에서 시설관리자가 가장 먼저 해야 할 일은 무엇인가요? (상황: 다중이용시설 내에서 갑작스러운 붕괴 위험이 감지됨)",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화재 발생 시 공연장 내부에서 어떻게 안전하게 대피해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "공연장에서 발생 가능한 위험 요소 중 하나로 언급된 '붕괴' 사고의 예시와 피해 규모는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "정전 상황 발생 시 공연장에서 안전하게 대피하기 위해 첫 번째로 해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "대피 중 사고 발생 장소로 다시 들어가는 것이 안전한 행동인지 판단해 보세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "폭설 상황에서 안전하게 대피하기 위해 어떤 장소를 선택해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "체육시설 내에서 화재 발생 시, 장애인이 안전하게 대피하기 위한 올바른 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "공연장 안전시설 확인 시 특히 주의해야 할 위험 상황 중 하나로 언급된 사고로 인한 부상자 수는 몇 명인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "공연장에서 정전 상황이 발생했을 때, 안전하게 대피하기 위한 최소 이동 속도 기준은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 미리 대비하기 위해 주민들이 확인해야 할 첫 번째 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "유해화학물질 취급 사업장 정보를 확인할 때, 화학물질종합정보시스템에서 반드시 확인해야 할 주요 내용은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학물질 누출 초기 단계에서 피부 보호를 위해 취해야 할 첫 번째 행동은 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "연기, 독발음 냄새, 눈과 피부 자극 증상이 나타날 때 즉시 취해야 할 행동은 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위한 구체적인 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "유류나 인화성 액체 유출 사고 발생 시 차량 운행을 즉시 중단해야 하는 이유는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "화학사고 대피 시 인파 밀집으로 인한 교통 혼란이 발생할 경우, 어떻게 대처해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "시각장애가 있는 주민이 화학사고 대피 시 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "고농도 미세먼지 경보 발령 시 (PM10: 150ug/m3 이상 또는 PM2.5: 75ug/m3 이상 2시간 지속) 노인요양시설에서는 어떤 특별한 조치를 취해야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보가 해제되는 기준으로 PM10 농도는 어느 수준 미만이어야 합니까?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "영유아 어린이집에서 고농도 미세먼지 예보 시 첫 번째 단계로 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 '나쁨' 이상으로 판단되는 기준은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "고농도 미세먼지 경보 기준 중 PM2.5 농도가 몇 ug/m3 이상일 때 경보가 발령됩니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "미세먼지 경보가 발령된 후 7일 이내에 어떤 기관에 경보 조치 결과를 보고해야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "올바른 손씻기의 마지막 단계는 무엇이며, 그 단계에서 어떤 부분을 어떻게 닦아주어야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "올바른 손씻기의 단계 중 손톱 밑을 손바닥에 문지르는 단계는 몇 번째 단계인가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "숙박업소에서 반대(벌레) 발견 시 즉시 어떤 조치를 취해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "여행 중 반대 경험이 있는 경우 여행 가방과 소지품을 어떻게 관리해야 안전할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "산행 중 산불이 발생했을 때, 가장 먼저 해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "영유아와 함께 있을 때 산불 발생 시 대피 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "산림재난 신고 시, 위치를 신고하기 위해 어떤 방법들을 사용할 수 있나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "산림재난 발생 후 안전하게 귀가하기 위한 주요 절차는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "강풍 중에 안전하게 대피하기 위해 피해야 할 장소는 어디인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "강풍 발생 시 차량 안에 있을 때 전력선이 차량에 닿았을 경우, 즉시 취해야 할 행동 세 가지는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "강풍 경보 발령 시, 바닷가 지역에서 안전하게 대처하기 위한 가장 중요한 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "겨울철 한파 시 어린이, 노약자, 심뇌혈관질환자 등 취약계층이 야외 활동 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "수도관 동파를 예방하기 위해 외출 시 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "절차형",
+    "question": "눈이 많이 쌓인 경우, 안전한 제설 작업을 위해 어떤 조치를 취해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "안전판단형",
+    "question": "대설 경보가 발령된 상황에서 가로수나 노후 시설 근처를 안전하게 통과하기 위한 가장 적절한 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보 해제 기준으로 시간당 평균 미세먼지 농도는 각각 얼마 미만이어야 하는가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "차량 2부제가 홀수날과 짝수날에 각각 어떻게 적용되는가?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 높은 활동을 최소화해야 하는 시간대는 언제인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "실내 환기를 위한 적절한 시간은 얼마나 지속되어야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "보건용 마스크의 KF 등급 중 미세먼지 차단에 가장 효과적인 등급은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "화학물질종합정보시스템 접속 후 확인 가능한 '지역사회 고지' 항목 중 하나는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "화학물질 누출 초기 발견 시, 피부 노출을 방지하기 위해 사용해야 하는 최소 거리는 몇 미터 이상인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "실외 대피 시, 독성물질이 지면보다 높은 곳으로 확산되는 특성을 고려하여 대피할 때 권장하는 건물의 높이 기준은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위해 에어컨 및 히터 작동을 중단해야 하는 시점은 언제인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "수치법령형",
+    "question": "유류 유출 사고 발생 시 차량 운행을 즉시 중단하고 시동을 꺼야 하는 조건은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": null,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "고농도 미세먼지 경보 발령 시, 실내에 있는 고령 어르신이 외출을 자제해야 하는 이유는 무엇이며, 이 상황에서 가장 중요한 행동 지침은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "노인요양시설에서 미세먼지 주의보가 발령된 상태에서, 시설 내에 호흡기 질환을 가진 어르신들이 있다면, 시설 담당자는 어떤 구체적인 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "미세먼지 경보가 발령된 날, 어린이와 함께 노인요양시설 근처 공원에서 야외 활동을 계획하고 있다면, 어떤 대비 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "어린이가 있는 가정에서 고농도 미세먼지 경보가 발령된 상황에서, 특히 실내 공기질을 유지하기 위한 가장 우선적인 조치 세 가지는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "노인 요양 시설에서 고농도 미세먼지 경보가 발령된 경우, 특히 호흡기 질환을 가진 노인들을 위한 보호 조치 세 가지를 구체적으로 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "폭염과 고농도 미세먼지 경보가 동시에 발령된 여름철, 어린이를 동반한 가족이 야외 활동을 계획하고 있을 때, 안전을 위해 가장 중요한 세 가지 대응 방안은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "어린이가 미세먼지 경보가 발령된 상태에서 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요? 특히, 어린이가 호흡기 질환을 가지고 있다면 추가적으로 고려해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "노인이 거주하는 아파트 단지에서 고농도 미세먼지 경보가 발령되었을 때, 아파트 관리사무소는 어떤 구체적인 대응 조치를 취해야 할까요? 특히 노인들의 건강 상태를 고려한 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "운전자가 미세먼지 경보가 발령된 상태에서 장거리 운행을 해야 할 경우, 차량 내부의 공기질을 개선하기 위해 어떤 조치를 취해야 할까요? 특히 차량 내부의 미세먼지 농도를 낮추는 데 효과적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "qwen3",
+    "condition": "ft_only",
+    "q_type": "복합추론형",
+    "question": "고령자가 고농도 미세먼지 경보 발령 기간 동안 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.0,
+    "context_recall": null
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "집 안에서 지진 발생 시 안전한 대피 공간으로 적합한 장소는 어디인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.8232950447927999,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 가족과 만날 장소와 연락 방법을 미리 어떻게 정해두어야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7724050210887787,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "지진 발생 시 엘리베이터를 이용하는 것이 안전한지 판단해 보세요.",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.663335741911083,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시, 도심 지역에서 안전한 대피 장소로 이동할 때 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7660359231325401,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "야간 대피 시 안전을 위해 가장 중요한 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7960716956607125,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "고층 건물 내에서 지진 발생 시, 흔들림이 지속될 때 안전하게 행동하는 방법은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8235399925462663,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "극장이나 경기장 내에서 지진이 발생했을 때, 안전한 대피 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8363482948039117,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "지진 발생 시 휠체어 사용자가 안전하게 행동하기 위한 구체적인 방법은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7658309280138685,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "전철이 멈춘 직후, 특히 교량이나 고가도로 근처에 차량이 주차되어 있다면 어떤 위험이 가장 크다고 판단됩니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7028988182151754,
+    "context_recall": 0.5
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "청력이 좋지 않은 분과 함께 지진 발생 시 대피 시 어떻게 의사소통을 해야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.845865717910843,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "휠체어를 사용하는 지체장애인이 계단을 만나 대피할 때 적절한 대응 방법은 무엇인가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.662493047221118,
+    "context_recall": 0.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "흔들림이 멈추거나 대피 후, 부상자가 있는 경우 즉시 어떻게 해야 하는지 구체적으로 설명하세요.",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6692733256811196,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "자기 집에서 화재가 발생했을 때, 연기가 들어오지 않는 상황에서 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9010584641546988,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "화염이나 연기가 복도나 계단에 존재하여 대피가 어려운 경우, 아파트 입주자는 어떤 행동을 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7749134156872834,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "공동주택 화재 발생 시, 화염이나 연기가 직접적인 영향을 미치지 않는 세대의 대피 필요성 판단 기준은 무엇인가?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7140780206205787,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "야간에 화재가 발생했을 때, 수면 중인 가족 구성원에게 화재 사실을 알리는 가장 효과적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.9682246411506098,
+    "context_recall": 0.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "화재 발생 시, 복도나 계단을 이용하여 대피할 때, 출입문 손잡이가 뜨거울 경우 어떤 행동을 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.6005265679198499,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 대피공간, 경량칸막이, 하향식피난구 중 어떤 시설을 우선적으로 이용해야 하는지 설명하세요.",
+    "faithfulness": null,
+    "answer_relevancy": 0.6963454472807801,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "30층 이상의 아파트에서 화재 발생 시 피난용 승강기를 이용할 수 있는지 판단하고 근거를 제시하세요.",
+    "faithfulness": 0.3333333333333333,
+    "answer_relevancy": 0.7700450478756288,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 아파트 내에서 화염이나 연기가 세대 내로 유입되지 않는 상황에서는 어떻게 행동해야 합니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8546208341000564,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "연기가 들어오지 않도록 창문을 닫는 것이 중요한 이유는 무엇입니까?",
+    "faithfulness": null,
+    "answer_relevancy": 0.8544614219975868,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 대피가 어려운 상황에서 가족 구성원이 안전하게 대기할 수 있는 구체적인 방법은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7932652792769571,
+    "context_recall": 0.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "아파트 내 화재 발생 시, 가족 구성원 모두가 참여하여 피난계획을 수립하는 과정에서 가장 먼저 수행해야 하는 단계와 그 이유는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8480367033223424,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "연간 대피 연습 시 가족 구성원들이 연습해야 할 주요 요소는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6075136760808746,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "다중이용시설에서 화재 발생 시, 이용자는 어떤 행동을 취해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.763230244788931,
+    "context_recall": 0.3333333333333333
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "다음 상황에서 시설관리자가 가장 먼저 해야 할 일은 무엇인가요? (상황: 다중이용시설 내에서 갑작스러운 붕괴 위험이 감지됨)",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.7663628309307411,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화재 발생 시 공연장 내부에서 어떻게 안전하게 대피해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7523797928627076,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "공연장에서 발생 가능한 위험 요소 중 하나로 언급된 '붕괴' 사고의 예시와 피해 규모는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.80186380437868,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "정전 상황 발생 시 공연장에서 안전하게 대피하기 위해 첫 번째로 해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7439448651801076,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "대피 중 사고 발생 장소로 다시 들어가는 것이 안전한 행동인지 판단해 보세요.",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.5171390776268713,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "폭설 상황에서 안전하게 대피하기 위해 어떤 장소를 선택해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7946597603377075,
+    "context_recall": 0.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "체육시설 내에서 화재 발생 시, 장애인이 안전하게 대피하기 위한 올바른 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6708323396908404,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "공연장 안전시설 확인 시 특히 주의해야 할 위험 상황 중 하나로 언급된 사고로 인한 부상자 수는 몇 명인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.62232586968351,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "공연장에서 정전 상황이 발생했을 때, 안전하게 대피하기 위한 최소 이동 속도 기준은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6487839067616915,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 미리 대비하기 위해 주민들이 확인해야 할 첫 번째 사항은 무엇인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.922817370007627,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "유해화학물질 취급 사업장 정보를 확인할 때, 화학물질종합정보시스템에서 반드시 확인해야 할 주요 내용은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6495165171271254,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학물질 누출 초기 단계에서 피부 보호를 위해 취해야 할 첫 번째 행동은 무엇입니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7371475441123354,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "연기, 독발음 냄새, 눈과 피부 자극 증상이 나타날 때 즉시 취해야 할 행동은 무엇입니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.649749566734805,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위한 구체적인 조치는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8048372823941872,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "유류나 인화성 액체 유출 사고 발생 시 차량 운행을 즉시 중단해야 하는 이유는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7202235256687212,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "화학사고 대피 시 인파 밀집으로 인한 교통 혼란이 발생할 경우, 어떻게 대처해야 하나요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.6080736687645532,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "시각장애가 있는 주민이 화학사고 대피 시 가장 먼저 취해야 할 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7727757544603099,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "고농도 미세먼지 경보 발령 시 (PM10: 150ug/m3 이상 또는 PM2.5: 75ug/m3 이상 2시간 지속) 노인요양시설에서는 어떤 특별한 조치를 취해야 합니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8825934239289035,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보가 해제되는 기준으로 PM10 농도는 어느 수준 미만이어야 합니까?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7159747874518134,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "영유아 어린이집에서 고농도 미세먼지 예보 시 첫 번째 단계로 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7132099073278221,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 '나쁨' 이상으로 판단되는 기준은 무엇인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.6545826546494953,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "고농도 미세먼지 경보 기준 중 PM2.5 농도가 몇 ug/m3 이상일 때 경보가 발령됩니까?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.714786239250145,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "미세먼지 경보가 발령된 후 7일 이내에 어떤 기관에 경보 조치 결과를 보고해야 하는가?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.612413677244492,
+    "context_recall": 0.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "올바른 손씻기의 마지막 단계는 무엇이며, 그 단계에서 어떤 부분을 어떻게 닦아주어야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9112691088942382,
+    "context_recall": 0.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "올바른 손씻기의 단계 중 손톱 밑을 손바닥에 문지르는 단계는 몇 번째 단계인가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7949355830553541,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "숙박업소에서 반대(벌레) 발견 시 즉시 어떤 조치를 취해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7379097461034194,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "여행 중 반대 경험이 있는 경우 여행 가방과 소지품을 어떻게 관리해야 안전할까요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": null,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "산행 중 산불이 발생했을 때, 가장 먼저 해야 할 행동은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.621709082367783,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "영유아와 함께 있을 때 산불 발생 시 대피 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9622125755811143,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "산림재난 신고 시, 위치를 신고하기 위해 어떤 방법들을 사용할 수 있나요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.872855058886707,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "산림재난 발생 후 안전하게 귀가하기 위한 주요 절차는 무엇인가요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.8997508753769871,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "강풍 중에 안전하게 대피하기 위해 피해야 할 장소는 어디인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7516574292130838,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "강풍 발생 시 차량 안에 있을 때 전력선이 차량에 닿았을 경우, 즉시 취해야 할 행동 세 가지는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.756244658241893,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "강풍 경보 발령 시, 바닷가 지역에서 안전하게 대처하기 위한 가장 중요한 조치는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.5088308548711235,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "겨울철 한파 시 어린이, 노약자, 심뇌혈관질환자 등 취약계층이 야외 활동 시 주의해야 할 사항은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8244954217316987,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "수도관 동파를 예방하기 위해 외출 시 취해야 할 구체적인 행동은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.5846857175040306,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "절차형",
+    "question": "눈이 많이 쌓인 경우, 안전한 제설 작업을 위해 어떤 조치를 취해야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7446929181611912,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "안전판단형",
+    "question": "대설 경보가 발령된 상황에서 가로수나 노후 시설 근처를 안전하게 통과하기 위한 가장 적절한 행동은 무엇인가요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.8476874077786908,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 주의보 해제 기준으로 시간당 평균 미세먼지 농도는 각각 얼마 미만이어야 하는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6618458367994468,
+    "context_recall": 0.5
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "차량 2부제가 홀수날과 짝수날에 각각 어떻게 적용되는가?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.5410360943155242,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "미세먼지 농도가 높은 활동을 최소화해야 하는 시간대는 언제인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.5834058572527756,
+    "context_recall": 0.5
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "실내 환기를 위한 적절한 시간은 얼마나 지속되어야 하나요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7918352066475542,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "보건용 마스크의 KF 등급 중 미세먼지 차단에 가장 효과적인 등급은 무엇인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.4452050555842433,
+    "context_recall": 0.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학물질종합정보시스템 접속 후 확인 가능한 '지역사회 고지' 항목 중 하나는 무엇인가요?",
+    "faithfulness": 0.875,
+    "answer_relevancy": 0.6840003541325739,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학물질 누출 초기 발견 시, 피부 노출을 방지하기 위해 사용해야 하는 최소 거리는 몇 미터 이상인가요?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.6067252582507273,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "실외 대피 시, 독성물질이 지면보다 높은 곳으로 확산되는 특성을 고려하여 대피할 때 권장하는 건물의 높이 기준은 무엇인가요?",
+    "faithfulness": 0.5,
+    "answer_relevancy": 0.5417650876035223,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "화학사고 발생 시 차량 내에서 외부 공기 유입을 차단하기 위해 에어컨 및 히터 작동을 중단해야 하는 시점은 언제인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.703995176861084,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "수치법령형",
+    "question": "유류 유출 사고 발생 시 차량 운행을 즉시 중단하고 시동을 꺼야 하는 조건은 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.5094013394584953,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "고농도 미세먼지 경보 발령 시, 실내에 있는 고령 어르신이 외출을 자제해야 하는 이유는 무엇이며, 이 상황에서 가장 중요한 행동 지침은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.844736754617085,
+    "context_recall": 0.5
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인요양시설에서 미세먼지 주의보가 발령된 상태에서, 시설 내에 호흡기 질환을 가진 어르신들이 있다면, 시설 담당자는 어떤 구체적인 조치를 취해야 할까요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.7372647316465982,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "미세먼지 경보가 발령된 날, 어린이와 함께 노인요양시설 근처 공원에서 야외 활동을 계획하고 있다면, 어떤 대비 조치를 취해야 할까요?",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.7281220635106143,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "어린이가 있는 가정에서 고농도 미세먼지 경보가 발령된 상황에서, 특히 실내 공기질을 유지하기 위한 가장 우선적인 조치 세 가지는 무엇인가요?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.5980516653775249,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인 요양 시설에서 고농도 미세먼지 경보가 발령된 경우, 특히 호흡기 질환을 가진 노인들을 위한 보호 조치 세 가지를 구체적으로 설명하세요.",
+    "faithfulness": 0.6666666666666666,
+    "answer_relevancy": 0.6104360767360547,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "폭염과 고농도 미세먼지 경보가 동시에 발령된 여름철, 어린이를 동반한 가족이 야외 활동을 계획하고 있을 때, 안전을 위해 가장 중요한 세 가지 대응 방안은 무엇인가요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.615566075638657,
+    "context_recall": 0.3333333333333333
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "어린이가 미세먼지 경보가 발령된 상태에서 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요? 특히, 어린이가 호흡기 질환을 가지고 있다면 추가적으로 고려해야 할 사항은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.6714605528856868,
+    "context_recall": 0.6666666666666666
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "노인이 거주하는 아파트 단지에서 고농도 미세먼지 경보가 발령되었을 때, 아파트 관리사무소는 어떤 구체적인 대응 조치를 취해야 할까요? 특히 노인들의 건강 상태를 고려한 조치는 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.695195053387426,
+    "context_recall": 1.0
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "운전자가 미세먼지 경보가 발령된 상태에서 장거리 운행을 해야 할 경우, 차량 내부의 공기질을 개선하기 위해 어떤 조치를 취해야 할까요? 특히 차량 내부의 미세먼지 농도를 낮추는 데 효과적인 방법은 무엇인가요?",
+    "faithfulness": null,
+    "answer_relevancy": 0.759655795625228,
+    "context_recall": null
+  },
+  {
+    "model": "llama31",
+    "condition": "rag",
+    "q_type": "복합추론형",
+    "question": "고령자가 고농도 미세먼지 경보 발령 기간 동안 실외 활동을 해야 하는 상황이라면, 어떤 조치를 취해야 할까요?",
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.7586284488822352,
+    "context_recall": 0.5
+  }
+]
