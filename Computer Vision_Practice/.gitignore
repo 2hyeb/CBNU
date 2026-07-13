@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+
+# 용량 큰 실습용 영상 (재실행 시 필요 · 올리려면 아래 두 줄 삭제)
+data/traffic.mp4
+data/faces.mp4
