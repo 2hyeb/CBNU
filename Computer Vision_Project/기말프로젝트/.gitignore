@@ -19,3 +19,9 @@ Thumbs.db
 
 # 검증용 임시 이미지
 results/_*.png
+
+*.html
+제안서.md
+발표대본.md
+generation_prompts.md
+prompts_ready_to_paste.md
