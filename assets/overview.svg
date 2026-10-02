@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 480" width="100%" height="auto" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <style>
+      .title { font-size: 24px; font-weight: 700; fill: #2c3e50; }
+      .subtitle { font-size: 12px; fill: #6b7280; }
+      .cat { font-size: 15px; font-weight: 700; fill: #2c3e50; }
+      .proj { font-size: 12px; fill: #374151; }
+      .mini { font-size: 11px; fill: #6b7280; font-style: italic; }
+      .icon { font-size: 34px; }
+    </style>
+  </defs>
+
+  <rect width="980" height="480" fill="#FEFCFB"/>
+
+  <text x="490" y="42" text-anchor="middle" class="title">CBNU 포트폴리오 — 5 Research Pillars</text>
+  <text x="490" y="62" text-anchor="middle" class="subtitle">컴퓨터비전 · 멀티모달 VLM · 자연어처리 · LLM/RAG · 데이터분석 공간예측</text>
+
+  <g transform="translate(10, 100)">
+    <rect width="186" height="360" rx="14" fill="#FFE4D6"/>
+    <text x="93" y="56" text-anchor="middle" class="icon">🖼</text>
+    <text x="93" y="92" text-anchor="middle" class="cat">컴퓨터비전</text>
+    <line x1="24" y1="106" x2="162" y2="106" stroke="#2c3e50" stroke-opacity="0.18" stroke-width="1"/>
+    <text x="93" y="140" text-anchor="middle" class="proj">Computer Vision</text>
+    <text x="93" y="156" text-anchor="middle" class="proj">Practice</text>
+    <text x="93" y="188" text-anchor="middle" class="proj">OpenCV</text>
+    <text x="93" y="220" text-anchor="middle" class="proj">Document</text>
+    <text x="93" y="236" text-anchor="middle" class="proj">Preprocessing CV</text>
+    <text x="93" y="268" text-anchor="middle" class="proj">AI-Generated</text>
+    <text x="93" y="284" text-anchor="middle" class="proj">Image Detection</text>
+  </g>
+
+  <g transform="translate(206, 100)">
+    <rect width="186" height="360" rx="14" fill="#E5D5F2"/>
+    <text x="93" y="56" text-anchor="middle" class="icon">👁</text>
+    <text x="93" y="92" text-anchor="middle" class="cat">멀티모달 · VLM</text>
+    <line x1="24" y1="106" x2="162" y2="106" stroke="#2c3e50" stroke-opacity="0.18" stroke-width="1"/>
+    <text x="93" y="170" text-anchor="middle" class="proj">VLM Abnormal</text>
+    <text x="93" y="186" text-anchor="middle" class="proj">Behavior Detection</text>
+    <text x="93" y="220" text-anchor="middle" class="mini">Qwen2.5-VL (7B · 72B)</text>
+    <text x="93" y="238" text-anchor="middle" class="mini">HF Transformers · vLLM</text>
+  </g>
+
+  <g transform="translate(402, 100)">
+    <rect width="186" height="360" rx="14" fill="#CDE4FD"/>
+    <text x="93" y="56" text-anchor="middle" class="icon">💬</text>
+    <text x="93" y="92" text-anchor="middle" class="cat">자연어처리</text>
+    <line x1="24" y1="106" x2="162" y2="106" stroke="#2c3e50" stroke-opacity="0.18" stroke-width="1"/>
+    <text x="93" y="150" text-anchor="middle" class="proj">BERT NER</text>
+    <text x="93" y="196" text-anchor="middle" class="proj">PII Detection</text>
+    <text x="93" y="212" text-anchor="middle" class="mini">AI (BERT + LLM)</text>
+    <text x="93" y="252" text-anchor="middle" class="proj">PII Detection</text>
+    <text x="93" y="268" text-anchor="middle" class="mini">Regex (규칙)</text>
+  </g>
+
+  <g transform="translate(598, 100)">
+    <rect width="186" height="360" rx="14" fill="#D6EFFF"/>
+    <text x="93" y="56" text-anchor="middle" class="icon">🤖</text>
+    <text x="93" y="92" text-anchor="middle" class="cat">LLM · RAG</text>
+    <line x1="24" y1="106" x2="162" y2="106" stroke="#2c3e50" stroke-opacity="0.18" stroke-width="1"/>
+    <text x="93" y="155" text-anchor="middle" class="proj">Disaster</text>
+    <text x="93" y="171" text-anchor="middle" class="proj">RAG Eval</text>
+    <text x="93" y="195" text-anchor="middle" class="mini">bge-m3 · FAISS · RAGAS</text>
+    <text x="93" y="238" text-anchor="middle" class="proj">RAG Chatbot</text>
+    <text x="93" y="254" text-anchor="middle" class="mini">Streamlit · Ollama · Chroma</text>
+  </g>
+
+  <g transform="translate(794, 100)">
+    <rect width="186" height="360" rx="14" fill="#D4F1E4"/>
+    <text x="93" y="56" text-anchor="middle" class="icon">🗺</text>
+    <text x="93" y="88" text-anchor="middle" class="cat">데이터분석</text>
+    <text x="93" y="106" text-anchor="middle" class="cat">· 공간예측</text>
+    <line x1="24" y1="120" x2="162" y2="120" stroke="#2c3e50" stroke-opacity="0.18" stroke-width="1"/>
+    <text x="93" y="156" text-anchor="middle" class="proj">Road LCC</text>
+    <text x="93" y="172" text-anchor="middle" class="mini">대전 손상 예측</text>
+    <text x="93" y="212" text-anchor="middle" class="proj">Pothole Repair</text>
+    <text x="93" y="228" text-anchor="middle" class="mini">서울 보수 분석</text>
+    <text x="93" y="268" text-anchor="middle" class="proj">Yuseong Pothole</text>
+    <text x="93" y="284" text-anchor="middle" class="mini">유성구 블록 위험</text>
+  </g>
+</svg>

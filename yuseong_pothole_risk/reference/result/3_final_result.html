@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_604841d4e6ec149977eea25e8558b3d5 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_604841d4e6ec149977eea25e8558b3d5" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_604841d4e6ec149977eea25e8558b3d5 = L.map(
+                "map_604841d4e6ec149977eea25e8558b3d5",
+                {
+                    center: [36.359824100000004, 127.38128055714286],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_419f41f173c6e50ef5c8eab528caf5c9 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_419f41f173c6e50ef5c8eab528caf5c9.addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var marker_28609be1fc0d7202b80f7129ce012587 = L.marker(
+                [36.362238, 127.356318],
+                {
+}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var icon_c11d8a8c77c561e9c387ab8eaed1487f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_28609be1fc0d7202b80f7129ce012587.bindTooltip(
+                `<div>
+                     START - 유성구청
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_28609be1fc0d7202b80f7129ce012587.setIcon(icon_c11d8a8c77c561e9c387ab8eaed1487f);
+            
+    
+            var marker_c5f5121ab9e1ea67ea43fb3329a62beb = L.marker(
+                [36.3718, 127.38809],
+                {
+}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var icon_275e879a5c5a7f45156dbadc631ed243 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_c5f5121ab9e1ea67ea43fb3329a62beb.bindTooltip(
+                `<div>
+                     1 - 엑스포다리
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c5f5121ab9e1ea67ea43fb3329a62beb.setIcon(icon_275e879a5c5a7f45156dbadc631ed243);
+            
+    
+            var marker_6fba766bfc354f6a5fb843ca2c02bfde = L.marker(
+                [36.3504119, 127.3845475],
+                {
+}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var icon_3596f946356e231f8fedcc0f38a70828 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_6fba766bfc354f6a5fb843ca2c02bfde.bindTooltip(
+                `<div>
+                     2 - 대전시청
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6fba766bfc354f6a5fb843ca2c02bfde.setIcon(icon_3596f946356e231f8fedcc0f38a70828);
+            
+    
+            var marker_7805c62b09512f0a4ed1688ea41dcd0c = L.marker(
+                [36.3258028, 127.4340444],
+                {
+}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var icon_38da9e15ed3544cc939edbd9ea2d11ce = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_7805c62b09512f0a4ed1688ea41dcd0c.bindTooltip(
+                `<div>
+                     3 - 대전역
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7805c62b09512f0a4ed1688ea41dcd0c.setIcon(icon_38da9e15ed3544cc939edbd9ea2d11ce);
+            
+    
+            var marker_49d7d16585182922121a0983032c01b7 = L.marker(
+                [36.374278, 127.386646],
+                {
+}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var icon_8471f7baa7d7209b61ac9dbbfae93caf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_49d7d16585182922121a0983032c01b7.bindTooltip(
+                `<div>
+                     4 - 대전컨벤션센터
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_49d7d16585182922121a0983032c01b7.setIcon(icon_8471f7baa7d7209b61ac9dbbfae93caf);
+            
+    
+            var marker_c1d7ba097d99c97faa2dce733e32f12b = L.marker(
+                [36.372, 127.363],
+                {
+}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var icon_5db62ec06367711925f9809442ec69f3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_c1d7ba097d99c97faa2dce733e32f12b.bindTooltip(
+                `<div>
+                     5 - KAIST 본원
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c1d7ba097d99c97faa2dce733e32f12b.setIcon(icon_5db62ec06367711925f9809442ec69f3);
+            
+    
+            var marker_58d7f79a7d2993331292db605e529855 = L.marker(
+                [36.362238, 127.356318],
+                {
+}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+    
+            var icon_737359f3fb96ffe675badca46e28ee67 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_58d7f79a7d2993331292db605e529855.bindTooltip(
+                `<div>
+                     END - 유성구청
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_58d7f79a7d2993331292db605e529855.setIcon(icon_737359f3fb96ffe675badca46e28ee67);
+            
+    
+            var poly_line_1b418fe2ebfaae216e64aac1e6d4991b = L.polyline(
+                [[36.362238, 127.356318], [36.3718, 127.38809], [36.3504119, 127.3845475], [36.3258028, 127.4340444], [36.374278, 127.386646], [36.372, 127.363], [36.362238, 127.356318]],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(map_604841d4e6ec149977eea25e8558b3d5);
+        
+</script>
+</html>

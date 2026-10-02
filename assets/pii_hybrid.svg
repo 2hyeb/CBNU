@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 440" width="100%" height="auto" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <style>
+      .title { font-size: 20px; font-weight: 700; fill: #2c3e50; }
+      .subtitle { font-size: 13px; fill: #6b7280; }
+      .label { font-size: 16px; font-weight: 700; fill: #2c3e50; }
+      .item { font-size: 13px; fill: #374151; }
+      .common { font-size: 13px; font-weight: 700; fill: #2c3e50; }
+      .note { font-size: 11px; fill: #6b7280; }
+    </style>
+  </defs>
+
+  <rect width="820" height="440" fill="#FEFCFB"/>
+
+  <text x="410" y="38" text-anchor="middle" class="title">PII Detection — Regex와 AI의 보완적 커버리지</text>
+  <text x="410" y="58" text-anchor="middle" class="subtitle">pii_detection_regex ↔ pii_detection_AI 비교 실험으로 사각지대 식별</text>
+
+  <ellipse cx="310" cy="240" rx="210" ry="135" fill="#A2D2FF" fill-opacity="0.5" stroke="#4A90D9" stroke-width="1.5"/>
+  <ellipse cx="510" cy="240" rx="210" ry="135" fill="#FFB4A2" fill-opacity="0.5" stroke="#D97757" stroke-width="1.5"/>
+
+  <text x="195" y="150" text-anchor="middle" class="label">🧩 정규식 (규칙)</text>
+  <text x="195" y="172" text-anchor="middle" class="note">형식이 명확한 항목</text>
+  <text x="130" y="210" class="item">· 주민등록번호</text>
+  <text x="130" y="232" class="item">· 계좌번호</text>
+  <text x="130" y="254" class="item">· 운송장번호</text>
+  <text x="130" y="276" class="item">· 계층형 주소</text>
+  <text x="130" y="298" class="item">· 신용카드</text>
+
+  <text x="625" y="150" text-anchor="middle" class="label">🧠 AI (BERT + LLM)</text>
+  <text x="625" y="172" text-anchor="middle" class="note">표현이 자유로운 항목</text>
+  <text x="565" y="210" class="item">· 신체정보 (키·체중)</text>
+  <text x="565" y="232" class="item">· 서술형 상태</text>
+  <text x="565" y="254" class="item">· 모호한 지명·별명</text>
+  <text x="565" y="276" class="item">· 문맥 의존 식별자</text>
+  <text x="565" y="298" class="item">· 비정형 개인 정보</text>
+
+  <text x="410" y="230" text-anchor="middle" class="common">공통 영역</text>
+  <text x="410" y="252" text-anchor="middle" class="note">전화번호</text>
+  <text x="410" y="268" text-anchor="middle" class="note">이메일</text>
+
+  <text x="410" y="410" text-anchor="middle" class="subtitle">두 방식을 함께 돌려 서로의 사각지대를 메우는 Hybrid 전략</text>
+</svg>

@@ -1,0 +1,19 @@
+# Spatial data (do not commit — may be CAD-derived / confidential)
+*.gpkg
+*.geojson
+
+# Video files (practice material, local only)
+*.mp4
+*.mov
+*.avi
+
+# MNIST raw dataset (auto-downloaded by torchvision)
+**/MNIST/raw/
+
+# Disaster response source documents (government public, downloadable)
+disaster-rag-eval/data/raw/**/*.pdf
+disaster-rag-eval/data/raw/**/*.doc
+
+# Large preprocessed panel data (regeneratable from notebooks; incl. 512MB file)
+yuseong_pothole_risk/preprocessed_data/panel_*.csv
+yuseong_pothole_risk/preprocessed_data/panel_*.parquet

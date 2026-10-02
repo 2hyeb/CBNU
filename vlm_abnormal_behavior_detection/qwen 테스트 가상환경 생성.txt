@@ -1,0 +1,16 @@
+python3.10 -m venv qwen-vlm
+
+pip install "torch==2.4.1" "torchvision==0.19.1" --index-url https://download.pytorch.org/whl/cu121
+
+python3 -c "import torch; print(torch.__version__); print(torch.cuda.is_available())"
+
+pip install transformers
+
+pip install pandas
+
+pip install openpyxl
+
+pip install accelerate
+
+pip install -U bitsandbyte
+
