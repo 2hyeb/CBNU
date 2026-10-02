@@ -1,3 +1,6 @@
+# Claude Code local state
+.claude/
+
 # Spatial data (do not commit — may be CAD-derived / confidential)
 *.gpkg
 *.geojson
